@@ -1,3 +1,2 @@
-form selenium import webdriver
-
-navegador = webdriver.FireFox()
+from selenium import webdriver
+navegador = webdriver.Firefox()
